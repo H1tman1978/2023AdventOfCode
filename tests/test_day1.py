@@ -11,6 +11,7 @@ from Day1 import find_first_last_number  # Make sure to import the function from
     ("sevenine", 79),
     ("one7three", 13),
     ("four9two", 42),
+    ("zdsnznxmrbljz7lvdvx74", 74),
     # Add more test cases as needed
 ])
 def test_find_first_last_number(test_input, expected):
