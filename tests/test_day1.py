@@ -1,5 +1,5 @@
 import pytest
-from Day1 import find_first_last_number  # Make sure to import the function from your script
+from day_1 import find_first_last_number  # Make sure to import the function from your script
 
 
 # Test cases

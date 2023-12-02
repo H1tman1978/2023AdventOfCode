@@ -1,5 +1,5 @@
 """
-Day1.py
+day_1.py
 Date: 12/01/23
 Author: Tony Rolfe
 
@@ -29,7 +29,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 calibration_total = 0
-file_path = 'day1_data.txt'  # Adjust the file path if necessary
+file_path = 'data/day1_data.txt'  # Adjust the file path if necessary
 
 
 def find_first_number(s, num_map):
